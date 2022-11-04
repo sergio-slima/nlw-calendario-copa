@@ -5,10 +5,10 @@ Evento exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologia
 </p>
 
 <p align="center">
-  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-licença">Licença</a>
+  <a href="#🚀-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#💻-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#🔖-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#🔑-licença">Licença</a>
 </p>
 
 <p align="center">
@@ -18,7 +18,7 @@ Evento exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologia
 <br>
 
 <p align="center">
-  <img alt="calendário copa" src="./assets/logo.svg" width="100%">
+  <img alt="calendário copa" src="./assets/logo.svg" width="50%">
 </p>
 
 ## 🚀 Tecnologias
@@ -33,13 +33,13 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O Calendário da Copa é um projeto que simula o uma tabela de jogos da Copa do Mundo de 2022, onde é possível adicionar jogos com suas datas, atualizando elementos HTML via DOM.
+O Calendário da Copa é um projeto que simula a uma tabela de jogos da Copa do Mundo de 2022, onde é possível adicionar jogos com suas datas e horários, atualizando elementos HTML via DOM.
 
 ## 🔖 Layout
 
 Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/community/file/1169028052212317700). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
-## :memo: Licença
+## 🔑 Licença
 
 Esse projeto está sob a licença MIT.
 
