@@ -1,14 +1,14 @@
-<h1 align="center"> Calendário Copa | NLW </h1>
+<h1 align="center"> Calendário Copa 2022 - NLW #10 </h1>
 
 <p align="center">
 Evento exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologias WEB.
 </p>
 
 <p align="center">
-  <a href="#🚀-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#💻-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#🔖-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#🔑-licença">Licença</a>
+  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-licença">Licença</a>
 </p>
 
 <p align="center">
@@ -18,7 +18,7 @@ Evento exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologia
 <br>
 
 <p align="center">
-  <img alt="calendário copa" src="./assets/logo.svg" width="50%">
+  <img alt="calendário copa 2022" src=".github/preview.png" width="75%">
 </p>
 
 ## 🚀 Tecnologias
@@ -26,14 +26,12 @@ Evento exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologia
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - HTML e CSS
-- JavaScript e JSON
-- [Node e NPM](https://nodejs.org/)
-- [Vite](https://vitejs.dev/)
-- [iMask](https://imask.js.org)
+- JavaScript
+- Git e GitHub
 
 ## 💻 Projeto
 
-O Calendário da Copa é um projeto que simula a uma tabela de jogos da Copa do Mundo de 2022, onde é possível adicionar jogos com suas datas e horários, atualizando elementos HTML via DOM.
+O Calendário da Copa é um projeto que simula a uma tabela de jogos da Copa do Mundo de 2022.
 
 ## 🔖 Layout
 
