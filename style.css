@@ -14,7 +14,7 @@
 
 body.blue {
   --card-color-title-border: #338af3;
-  --card-color-primary: #338af3;  
+  --card-color-primary: #338af3;
   --card-color-bg: #202024;
   --card-color-text: #e1e1e6;
   --bg: url(./assets/bg-blue.svg);
@@ -22,7 +22,7 @@ body.blue {
 
 body.green {
   --card-color-title-border: #047c3f;
-  --card-color-primary: #047c3f;  
+  --card-color-primary: #047c3f;
   --card-color-bg: #1a1f1b;
   --card-color-text: #e1e1e6;
   --bg: url(./assets/bg-green.svg);
@@ -35,9 +35,9 @@ ul {
 body {
   background-color: #121214;
   background-image: var(--bg);
-  background-position: center;
+  background-position: top center;
   background-repeat: no-repeat;
-  background-size: cover;
+  background-size: contain;
 }
 
 body * {
@@ -53,9 +53,8 @@ body * {
 
 header {
   margin-bottom: 63px;
-  text-align: center;  
+  text-align: center;
 }
-
 
 header button {
   margin-top: 14px;
