@@ -14,10 +14,15 @@
       rel="stylesheet"
     />
   </head>
-  <body class="green">
+  <body>
     <div id="app">
       <header>
-        <img src="./assets/logo.svg" alt="Logo do Calendário da Copa" />
+          <img src="./assets/logo.svg" alt="Logo do Calendário da Copa" />
+          <div>
+            <button class="y" onclick="changeColor('')"></button>
+            <button class="b" onclick="changeColor('blue')"></button>
+            <button class="g" onclick="changeColor('green')"></button>
+          </div>          
       </header>
       <main id="cards"></main>     
     </div>
