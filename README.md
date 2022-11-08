@@ -53,7 +53,7 @@ Esse projeto está sob a licença MIT.
 </a>
 
 Desenvolvido por 
-Sergio SLima 👋🏽
+Sergio SLima 💪 
 Entre em contato!
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/fagnerpsantos)](https://github.com/sergio-slima)
